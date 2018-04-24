@@ -38,4 +38,4 @@ ext {
     arti_version = android.defaultConfig.versionName
 }
 
-apply from: '../my-arti.gradle'
+apply from: 'https://raw.githubusercontent.com/fangqk1991/gradle-artifactory-push/master/my-arti.gradle'
